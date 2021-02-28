@@ -19,5 +19,5 @@ W3C and HTML and CSS
 
 ## Navigation
 - [Project Home Page](https://leivapaola.github.io/How-the-Internet-Works-Website/)
-- [About Page](/TASKLIST.md)
+- [About Page](http://localhost:63342/How-the-Internet-Works-Website/docs/about.html?_ijt=2k4ib9ogj8euu30ptge1n09pv3)
 - [Change Log](CHANGELOG.md)
