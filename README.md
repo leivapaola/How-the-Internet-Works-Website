@@ -1,5 +1,6 @@
 # How-the-Internet-Works-Website
 
+
 ## Member
 
 1. Paola Leiva
@@ -17,6 +18,6 @@ HTTP and HTTPS protocols
 W3C and HTML and CSS
 
 ## Navigation
-- [Index Page](/docs/index.html)
+- [Project Home Page](https://leivapaola.github.io/How-the-Internet-Works-Website/)
 - [About Page](/TASKLIST.md)
 - [Change Log](CHANGELOG.md)
